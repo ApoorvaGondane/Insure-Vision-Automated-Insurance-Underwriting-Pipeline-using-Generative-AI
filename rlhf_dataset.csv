@@ -1,0 +1,5 @@
+claim_id,decision,confidence_score,human_feedback,reward_value
+CLM-2057,APPROVED,0.94,Upvote,1.0
+CLM-4575,APPROVED,0.94,Upvote,1.0
+CLM-2930,APPROVED,0.94,Upvote,1.0
+CLM-8071,REJECTED,0.94,Downvote,-1.0
